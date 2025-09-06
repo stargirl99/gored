@@ -206,7 +206,7 @@ body {
     }
     .content_a2f514::before {
         display: block;
-        content: '              ________ ________ _____________________\A /  _____/ \\_____  \\\\______   \\_   _____/\A/   \\  ___  /   |   \\|       _/|    __)_ \A\\    \\_\\  \\/    |    \\    |   \\|        \\\A \\______  /\\_______  /____|_  /_______  /\A        \\/         \\/       \\/        \\/       ';
+        content: '              :                          \A                 t#,                       ,; \A          .Gt   ;##W.   j.               f#i \A         j#W:  :#L:WE   EW,            .E#t  \A       ;K#f   .KG  ,#D  E##j          i#W,   \A     .G#D.    EE    ;#f E###D.       L#D.    \A    j#K;     f#.     t#iE#jG#W;    :K#Wfff;  \A  ,K#f   ,GD;:#G     GK E#t t##f   i##WLLLLt \A   j#Wi   E#t ;#L   LW. E#t  :K#E:  .E#L     \A    .G#D: E#t  t#f f#:  E#KDDDD###i   f#E:   \A      ,K#fK#t   f#D#;   E#f,t#Wi,,,    ,WW;  \A        j###t    G#t    E#t  ;#W:       .D#; \A         .G#t     t     DWi   ,KK:        tt \A           ;;       ';
         font-size: 18px;
         font-family: monospace;
         white-space: pre;
